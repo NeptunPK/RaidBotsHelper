@@ -1,7 +1,7 @@
 {
   "name": "neptunpk/raid-bots-helper",
   "description": "Helper class for raidbots",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "version": "1.0.0",
   "authors": [
