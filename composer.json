@@ -1,5 +1,5 @@
 {
-  "name": "neptunpk/raid-bots-helper",
+  "name": "NeptunPK/RaidBotsHelper",
   "description": "Helper class for raidbots",
   "minimum-stability": "stable",
   "license": "MIT",
@@ -10,9 +10,7 @@
     }
   ],
   "autoload": {
-    "files": [
-      "RaidBotsHelper.php"
-    ]
+    "files": ["RaidBotsHelper.php"]
   },
   "require": {
     "php": ">=5.5"
