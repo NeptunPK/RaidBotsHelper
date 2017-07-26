@@ -3,6 +3,7 @@
   "description": "Helper class for raidbots",
   "minimum-stability": "stable",
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Kirill Pozdnikov",
